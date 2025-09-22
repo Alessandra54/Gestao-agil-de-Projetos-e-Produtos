@@ -1,7 +1,7 @@
 # 🏋️‍♂️ Treinare – Sistema de Gestão de Aulas em Academias  
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)  
-![Metodologia](https://img.shields.io/badge/metodologia-Scrum%20%2B%20Lean%20Inception-blue)  
+![Metodologia](https://img.shields.io/badge/metodologia-Scrum%20%2B%-blue)  
 ![Backend](https://img.shields.io/badge/backend-Flask%20(Python)-lightgrey)  
 ![Frontend](https://img.shields.io/badge/frontend-HTML%20%2B%20CSS%20%2B%20JS-orange)  
 ![Banco de Dados](https://img.shields.io/badge/database-PostgreSQL-316192)  
