@@ -46,7 +46,7 @@ Este projeto segue práticas ágeis:
 
 ## 📋 Backlog no Jira  
 
-👉 [**Link para o Jira**](#) _([adicionar aqui](https://treinare.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNTFmOTRiNTEzMDA5NDc4YjlkZGFiODRkYWM5MjM1NzMiLCJwIjoiaiJ9))_  
+👉 [**Link para o Jira**](#) _(https://treinare.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNTFmOTRiNTEzMDA5NDc4YjlkZGFiODRkYWM5MjM1NzMiLCJwIjoiaiJ9)_  
 
 ---
 
