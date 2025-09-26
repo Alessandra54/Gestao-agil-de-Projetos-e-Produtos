@@ -50,6 +50,11 @@ Este projeto segue práticas ágeis:
 
 ---
 
+## 📋 Video do Projeto
+
+👉 [**Link para o Video**](#) _(https://youtu.be/8JsIHelrGO4)_  
+
+---
 ## 🎯 MVP – Incremento Inicial  
 
 O MVP do **Treinare** contempla:  
